@@ -1,6 +1,0 @@
-/home/calin/Playground/code_retreat/mono/CodeRetreat/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
-/home/calin/Playground/code_retreat/mono/CodeRetreat/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/calin/Playground/code_retreat/mono/CodeRetreat/bin/Debug/CodeRetreat.dll.mdb
-/home/calin/Playground/code_retreat/mono/CodeRetreat/bin/Debug/CodeRetreat.dll
-/home/calin/Playground/code_retreat/mono/CodeRetreat/obj/x86/Debug/CodeRetreat.dll
-/home/calin/Playground/code_retreat/mono/CodeRetreat/obj/x86/Debug/CodeRetreat.dll.mdb
