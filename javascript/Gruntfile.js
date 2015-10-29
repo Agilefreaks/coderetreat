@@ -5,7 +5,7 @@ module.exports = function(grunt) {
       spec: {
         configFile: 'karma.conf.js'
       }
-	}
+    }
   });
 
   grunt.loadNpmTasks('grunt-karma');
