@@ -1,7 +1,12 @@
+# Javascript
+
+Do a interation in javascript, with node and jasmine support.
+
 ## Requirements
 
 1. Download and install Node.js from [here](https://nodejs.org/)
 2. Make sure npm is available in your path. Open up a Command Prompt / Terminal and execute `npm -v`
+3. You can install npm via `curl https://www.npmjs.com/install.sh | sh`, find detailed instructions [here](https://www.npmjs.com/package/npm)
 
 ## How to
 
