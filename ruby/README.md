@@ -2,12 +2,15 @@
 
 Do a interation in ruby
 
-# Requierments
+## Requierments
+1. Install rvm by following this [simple instructions](https://rvm.io/rvm/install)
+2. Navigate to the ruby folder in your favorite console
+3. Make sure you have bundler installed `gem install bundler`
+4. Install the gems `bundle install`
 
-- Install rvm by following this [simple instructions](https://rvm.io/rvm/install)
-- Navigate to the ruby folder in your favorite console
-- Make sure you have bundler installed `gem install bundler`
-- Install the gems `bundle install`
-- Run `rspec` for the specs
+## How to
+
+## Run the specs
+1. Run `rspec`
 
 Happy coding!

@@ -15,3 +15,5 @@ Do a interation in javascript, with node and jasmine support.
 2. Execute `npm install` (Linux will probably need sudo)
 3. Execute `npm install -g grunt-cli`(Linux will probably need sudo)
 4. Execute `grunt karma` and you should have 2 passing specs
+
+Happy coding!
