@@ -1,6 +1,1 @@
 # use the gitignore from the language subfolders
-/csharp/lib/CodeRetreat/obj/Debug
-/csharp/lib/CodeRetreat/bin/Debug
-/csharp/spec/CodeRetreat.Tests/bin/Debug
-/csharp/spec/CodeRetreat.Tests/obj/Debug
-*.suo
