@@ -1,20 +1,22 @@
-﻿namespace CodeRetreat.Tests
+﻿using NUnit.Framework;
+using System;
+
+namespace CodeRetreat.Tests
 {
-    using Microsoft.VisualStudio.TestTools.UnitTesting;
+	[TestFixture ()]
+	public class Test
+	{
+		[Test ()]
+		public void SuccesfulTest ()
+		{
+			Assert.IsTrue (true);
+		}
 
-    [TestClass]
-    public class ProgramTests
-    {
-        [TestMethod]
-        public void SuccesfulTest()
-        {
-            Assert.IsTrue(true);
-        }
-
-        [TestMethod]
-        public void FailingTest()
-        {
-            Assert.IsTrue(false);
-        }
-    }
+		[Test ()]
+		public void FailingTest ()
+		{
+			Assert.IsTrue (false);
+		}
+	}
 }
+
