@@ -32,4 +32,6 @@ We are always looking for starter kits in other languages, so please submit your
 
 Big thanks to the our sponsors:
 
-![iQuest](logos/iquest.png?raw=true) ![Visma](logos/visma.png?raw=true) ![Agilefreaks](logos/agilefreaks.png?raw=true)
+![iQuest](logos/iquest.png) 
+![Visma](logos/visma.png) 
+![Agilefreaks](logos/agilefreaks.png)
