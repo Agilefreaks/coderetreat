@@ -27,3 +27,9 @@ We are always looking for starter kits in other languages, so please submit your
 - Add a README.md in the new folder that contains the instructions to setup, keep in mind that the developers that want to try this out might have never worked with this language, make it easy for them to see how cool it is.
 - Create a scaffold project that only has a work file (a empty class in oop languages) and a simple test.
 - Submit a pull request.
+
+# Sponsors
+
+Big thanks to the our sponsors:
+
+[iQuest](logos/iquest.png) [Visma](logos/visma.png) [Agilefreaks](logos/agilefreaks.png)
